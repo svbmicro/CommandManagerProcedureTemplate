@@ -6,7 +6,7 @@ Have you try to develop big procedure in command manager? This is a big challeng
 
 ## HOW TO USE THIS TAMPLATE 
 1. Load all files in one project
-2. Insert your code to the main class. https://github.com/svbmicro/CommandManagerProcedureTemplate/blob/09a7f0f6e05ba998eaf38abaeab35f4a7ed3516e/Main.java#L8 
+2. Insert your code to the main class. [Here](https://github.com/svbmicro/CommandManagerProcedureTemplate/blob/09a7f0f6e05ba998eaf38abaeab35f4a7ed3516e/Main.java#L8) 
 3. Use only full path for java classes. Example:
 ```
 //You can't use import java.io. Use full path. 
